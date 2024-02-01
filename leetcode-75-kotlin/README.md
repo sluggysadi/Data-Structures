@@ -1,3 +1,5 @@
+<img align="right" alt="LeetCode 75" src="https://assets.leetcode.com/static_assets/others/LeetCode_75static_cover_picture.png" width="320"/>
+
 # LeetCode 75 (Kotlin)
 Ace Coding Interview with 75 Qs
 
