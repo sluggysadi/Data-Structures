@@ -12,7 +12,7 @@ Ace Coding Interview with 75 Qs
 | --- | --- | --- |
 | **Array / String** |
 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | # 1768, Two Pointers, String |
-| Greatest Common Divisor of Strings | Easy | # 1071, Math, String |
+| [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | # 1071, Math, String |
 | Kids With the Greatest Number of Candies | Easy | # 1431, Array |
 | Can Place Flowers | Easy | # 605, Array, Greedy |
 | Reverse Vowels of a String | Easy | # 345, Two Pointers, String |
