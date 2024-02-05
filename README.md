@@ -8,6 +8,9 @@ Ace Coding Interview with 75 Qs
 - Must-do problem list for interview prep
 - Best for 1~3 month of prep time
 
+### Solutions
+- [Kotlin](leetcode-75-kotlin/README.md)
+
 | Problem | Difficulty | Tags |
 | --- | --- | --- |
 | **Array / String** |
