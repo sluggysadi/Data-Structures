@@ -1,12 +1,4 @@
-<img align="right" alt="LeetCode 75" src="https://assets.leetcode.com/static_assets/others/LeetCode_75static_cover_picture.png" width="320"/>
-
-# LeetCode 75
-Ace Coding Interview with 75 Qs
-
-### Summary
-- 75 Essential & Trending Problems
-- Must-do problem list for interview prep
-- Best for 1~3 month of prep time
+# LeetCode 
 
 ### Solutions
 - [Kotlin](leetcode-75-kotlin/README.md)
